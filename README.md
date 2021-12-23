@@ -7,6 +7,7 @@ I graduated from Çukurova University Computer Engineering Department in 2021. D
 ## 📌 GitHub Stats And Top Languages
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=burakgul028&show_icons=true&count_private=true&hide=contribs,issues" alt="Burak Gül's github stats" />
+  
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakgul028&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
 
