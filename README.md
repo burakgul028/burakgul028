@@ -4,7 +4,7 @@ I graduated from Çukurova University Computer Engineering Department in 2021. D
 
 **burakgul028/burakgul028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## 📌 GitHub Stats And Top Languages
+## 📌 GitHub Stats And Top Languages 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=burakgul028&show_icons=true&count_private=true&hide=contribs,issues" alt="Burak Gül's github stats" />
   <br><br>
