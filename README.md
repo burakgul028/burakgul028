@@ -31,8 +31,11 @@ I graduated from Çukurova University Computer Engineering Department in 2021. D
 Here are some ideas to get you started:
 
 🔭 I'm currently working on Test Automation.
+
 🌱 I'm currently learning Serenity, Selenium..
+
 📫 How to reach me: https://www.linkedin.com/in/burakgul2010/
+
 😄 Pronouns: 
 - Adapting to change
 - Mutual understanding and friendly
