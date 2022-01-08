@@ -30,12 +30,18 @@ I graduated from Çukurova University Computer Engineering Department in 2021. D
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I'm currently working on Test Automation.
+🌱 I'm currently learning Serenity, Selenium..
+📫 How to reach me: https://www.linkedin.com/in/burakgul2010/
+😄 Pronouns: 
+- Adapting to change
+- Mutual understanding and friendly
+- Relations predisposition to teamwork
+- Taking Responsibility
+- Entrepreneur
+- Curious
+- Extrovert
+- Creative
+- Researcher
+⚡ Fun fact: Music and Design
 - [MY CV](https://github.com/burakgul028/burakgul028/blob/main/burakgul_cv.pdf)
